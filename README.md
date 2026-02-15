@@ -8,7 +8,7 @@
 
 - **Vansh Goyal** — Electrical Engineering *(Team Leader)*  
 - **Vipra Goyal** — Electrical Engineering  
-- **MoHitpreet Singh** — Computer Science Engineering  
+- **Mohitpreet Singh** — Computer Science Engineering  
 
 ---
 
